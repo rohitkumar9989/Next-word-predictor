@@ -1,0 +1,7 @@
+tensorflow==2.10.2
+pypdf
+numpy
+os
+nltk
+streamlit
+protobuf
