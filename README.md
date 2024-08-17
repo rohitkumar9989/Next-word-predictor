@@ -44,7 +44,7 @@ This mission demonstrates the implementation of a subsequent word Prediction ver
 
 ## Example
 
-![Demo](./demo.mp4)
+![Demo](demo.mp4)
 
 ## Project Structure
 
