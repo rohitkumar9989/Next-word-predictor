@@ -6,7 +6,7 @@ This mission demonstrates the implementation of a subsequent word Prediction ver
 
 ## Features
 
-** Sequential Data Preprocessing: Tokenizes and processes text data into sequences for model training.
-** Customizable Model Architecture: Allows users to choose the number of LSTM and Dense layers, as well as the output dimensions.
-** Real-time Word Prediction: Provides next-word predictions based on user input through a Streamlit interface.
-** Model Persistence: Saves the trained model and tokenizer for future use.
+* Sequential Data Preprocessing: Tokenizes and processes text data into sequences for model training.
+* Customizable Model Architecture: Allows users to choose the number of LSTM and Dense layers, as well as the output dimensions.
+* Real-time Word Prediction: Provides next-word predictions based on user input through a Streamlit interface.
+* Model Persistence: Saves the trained model and tokenizer for future use.
